@@ -67,7 +67,7 @@ function Feed() {
 
             <div className="p-5">
              <h2
-  className="mt-4 text-2xl text-gray-800 leading-relaxed text-center"
+  className="mt-4 text-xl text-gray-800 leading-relaxed text-center"
   style={{ fontFamily: '"Caveat", cursive' }}
 >
   {post.caption}
