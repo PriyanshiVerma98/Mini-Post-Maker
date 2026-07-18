@@ -209,8 +209,8 @@ During this project, I gained practical experience in:
 
 **Full Stack MERN Developer**
 
-* 🌐 Portfolio: *(Add Portfolio URL)*
-* 💼 LinkedIn: *(Add LinkedIn URL)*
+* 🌐 Portfolio: https://my-portfolio-zeta-liard-88.vercel.app/
+* 💼 LinkedIn: https://www.linkedin.com/in/priyanshi-verma98/
 * 💻 GitHub: https://github.com/PriyanshiVerma98
 
 ---
